@@ -1,0 +1,12 @@
+.contenedor-uno{
+    width: 500px;
+
+    display: flex;
+  justify-content:space-between;
+  align-items: flex-start;
+ 
+}
+ul{
+   font-family: sans-serif;
+   font-weight: 100;
+}
